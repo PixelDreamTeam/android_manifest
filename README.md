@@ -1,4 +1,4 @@
-# PixelBuilds #
+# PixelDream #
 
 ## Setting up your building enviroment ##
 
